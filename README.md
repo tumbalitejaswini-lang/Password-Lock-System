@@ -33,4 +33,14 @@ To design a functional password authentication system that helps understand:
 * Security and reliability
 * Easy to access
 * Simple construction
-* Flexible model   
+* Flexible model
+
+  
+  #Arduino #EmbeddedSystems #IoT #PasswordLockSystem #Microcontrollers #ElectronicsProject #HardwareSecurity #Cplusplus #StudentProject #Innovation #TechProjects #EmbeddedDesign #Buzzer #LEDControl
+
+
+  ## Demo Video
+[Click here to view project demo]
+
+(your-link-here)
+  
